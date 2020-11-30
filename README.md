@@ -85,6 +85,7 @@ Vamos instalar a library
 Acessando a documentação: [Laravel UI - Github](https://github.com/laravel/ui)
 No nosso caso vamos trabalhar com o bootstrap, seguindo a documentação vamos usar o comando:
 > php artisan ui bootstrap --auth
+
 Em seguida vamos executar o npm
 > npm install && npm run dev
 
